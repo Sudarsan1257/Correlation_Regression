@@ -23,7 +23,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output :
+![396553430-2e4c76a0-bb3c-4226-876c-a9e1885e4279](https://github.com/user-attachments/assets/bcb8495e-03fd-4a2d-a296-57f638ed1b53)
 
-# Result
 
-# Output 
